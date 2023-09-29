@@ -11,4 +11,4 @@ Latest snapshot of the schematic:
 ![schematic](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/assets/33556095/f7581245-c196-42b1-9556-a9efc18693ee)
 
 # CAD model
-![enclosure]([https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/assets/33556095/86bde505-9ddd-43de-b33f-bd58ce30046d](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/blob/dev/enclosure/enclosure.png?raw=true)https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/blob/dev/enclosure/enclosure.png?raw=true)
+![enclosure](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/blob/dev/enclosure/enclosure.png)
