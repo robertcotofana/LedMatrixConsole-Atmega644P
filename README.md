@@ -8,7 +8,7 @@ The code is written in C compiled with avr-gcc and uploaded to the board with av
 
 # KiCad schematic
 Latest snapshot of the schematic:
-![schematic](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/assets/33556095/f7581245-c196-42b1-9556-a9efc18693ee)
+![schematic](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/blob/dev/schematic/schematic.png)
 
 # CAD model
 ![enclosure](https://github.com/robertcotofana/LedMatrixConsole-Atmega644P/blob/dev/enclosure/enclosure.png)
