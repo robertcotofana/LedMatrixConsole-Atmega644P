@@ -5,6 +5,7 @@
 
 # Code
 The code is written in C compiled with avr-gcc and uploaded to the board with avrdude and usbasp.
+A makefile is provided to ease the compilation and upload process.
 
 # KiCad schematic
 Latest snapshot of the schematic:
