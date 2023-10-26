@@ -7,12 +7,12 @@ help:
 default: hex flash	
 	
 hex:
-	avr-gcc -Os -DF_CPU=16000000 -mmcu=atmega644p -c console.c
-	avr-gcc -DF_CPU=16000000 -mmcu=atmega644p -o console.elf console.o
+	avr-gcc -Os -DF_CPU=6000000 -mmcu=atmega644p -c console.c
+	avr-gcc -DF_CPU=6000000 -mmcu=atmega644p -o console.elf console.o
 	avr-objcopy -O ihex console.elf console.hex
 	del console.o
 	del console.elf
 	
 flash:
-	avrdude -c usbasp-clone -p m644p -U flash:w:console.hex
+	avrdude -c usbasp-clone -p m644p -B 93.75 -U flash:w:console.hex
 	
